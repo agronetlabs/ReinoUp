@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/agronetlabs"><img alt="Uma criação AgroNet Labs" src="https://img.shields.io/badge/AgroNet_Labs-ReinoUp-173F35?style=for-the-badge" /></a>
   <a href="#engenharia-e-criação-com-ia"><img alt="Desenvolvido com OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-Desenvolvimento-111111?style=for-the-badge" /></a>
+  <a href="#engenharia-e-criação-com-ia"><img alt="Desenvolvido com Claude Code" src="https://img.shields.io/badge/Claude_Code-Desenvolvimento-D97757?style=for-the-badge" /></a>
   <a href="https://reinoup.com"><img alt="Experiência Web e PWA" src="https://img.shields.io/badge/Web_%2B_PWA-Experimente-2563EB?style=for-the-badge" /></a>
   <a href="#onde-experimentar"><img alt="Android em teste fechado" src="https://img.shields.io/badge/Android-Teste_fechado-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=163024" /></a>
 </p>
@@ -22,7 +23,7 @@
 
 ## Quem está construindo
 
-O ReinoUp é construído por **Leandro Lemos e Ramon Ferreira**, com a **[AgroNet Labs](https://github.com/agronetlabs)** e o apoio do **OpenAI Codex** no desenvolvimento. A criação combina decisões humanas de produto, programação assistida por IA e produção audiovisual.
+O ReinoUp é construído por **Leandro Lemos e Ramon Ferreira**, com a **[AgroNet Labs](https://github.com/agronetlabs)** e o apoio do **OpenAI Codex e do Claude Code** no desenvolvimento. A criação combina decisões humanas de produto, programação assistida por IA e produção audiovisual.
 
 Este espaço apresenta o produto, as decisões de experiência e sua evolução. Aqui você pode conhecer o trabalho, acompanhar melhorias e conversar diretamente com quem o constrói.
 
@@ -78,7 +79,7 @@ O aplicativo usa **React e TypeScript**, com **Vite e Bun** no desenvolvimento, 
 | Camada | Tecnologias utilizadas |
 | --- | --- |
 | Interface | React · TypeScript · Vite |
-| Desenvolvimento | Bun · OpenAI Codex · GitHub |
+| Desenvolvimento | Bun · OpenAI Codex · Claude Code · GitHub |
 | Aplicativo Android | Capacitor |
 | Serviços de backend | Supabase |
 | Hospedagem e mídia | Cloudflare · Cloudflare Stream |
@@ -86,7 +87,7 @@ O aplicativo usa **React e TypeScript**, com **Vite e Bun** no desenvolvimento, 
 
 ### Engenharia e criação com IA
 
-O **OpenAI Codex** participa da implementação, investigação de falhas, revisão de código e preparação de entregas. Leandro e Ramon conduzem as decisões do projeto; a IA integra o processo de trabalho, com revisão humana e validação do resultado.
+O **Claude Code** faz parte da construção do ReinoUp desde o início do projeto. O **OpenAI Codex** participa da implementação, investigação de falhas, revisão de código e preparação de entregas. Leandro e Ramon conduzem as decisões do projeto; a IA integra o processo de trabalho, com revisão humana e validação do resultado.
 
 Nosso cuidado com a entrega se traduz em práticas concretas:
 
@@ -103,7 +104,7 @@ Os [casos de evolução](docs/evolucao.md) mostram exemplos desse processo e o q
 
 Em **31 de outubro de 2026**, o perfil **agronetlabs**, de Leandro Lemos, contabilizava **255 pull requests de sua autoria integrados**, consultados pela API autenticada do GitHub. Esse total reúne projetos públicos e privados da trajetória do autor; não é uma contagem exclusiva do ReinoUp. O **Pull Shark x3** reconhece o marco de 128 PRs integrados.
 
-As insígnias deste README identificam tecnologias, características do produto e uma conquista pessoal. O uso de OpenAI Codex e dos demais serviços não implica parceria, certificação ou endosso institucional.
+As insígnias deste README identificam tecnologias, características do produto e uma conquista pessoal. O uso de OpenAI Codex, Claude Code e dos demais serviços não implica parceria, certificação ou endosso institucional.
 
 ## Participe da evolução
 
